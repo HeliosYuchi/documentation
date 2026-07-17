@@ -10,6 +10,6 @@ verifiable proof of when entries were made.
 - [Courses](./courses/)   (Odin, Coursera ML, Stanford SEE, GitHub Foundations)
 - [Machine Learning Club (MLC)](./mlc/)
 - [PeerTutor](./peertutor/)
-- [Coding Journal](./coding-journal/)
+- [Coding Journal →](https://github.com/YuchiTongyouHelios/coding-journal)
 - [IB Test Preparation](./ib-prep/)   *(coming soon)*
 - [Volunteer / Service](./service/)   *(coming soon)*
