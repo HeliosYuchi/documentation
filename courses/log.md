@@ -13,3 +13,7 @@
 ## 2026-07-17
 - Started auditing Stanford SEE CS106A lectures (free, no certificate).
 - Registered for GitHub Foundations exam; voucher pending.
+
+## 2026-07-20
+- Continued The Odin Project; now ~30% through Foundations (up from 20% on 2026-07-17).
+- Maintained daily Coddy warm-ups.
