@@ -10,3 +10,8 @@ Just a log to keep up with my volunteering work
    HKPA, The Hub, etc.)
 - Planned in-person letter delivery for Wednesday, 22 July (not sure).
 - Andrew agreed to co-lead the workshops; letter includes both our names.
+
+
+## 2026-07-21
+- Bad news yall Andrew couldn't make it on Wednesday.
+- prosponed to September ( :-: )
